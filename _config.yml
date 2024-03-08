@@ -3,7 +3,8 @@
 #
 
 # The theme we use:
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+theme:
 show_downloads: false
 
 # Name of your site (displayed in the header)
