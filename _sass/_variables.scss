@@ -1,0 +1,57 @@
+
+//
+// VARIABLES
+//
+
+// Colors
+$blue: #4183C4;
+
+// Grays
+$black: #000;
+$darkerGray: #222;
+$darkGray: #333;
+$gray: #666;
+$lightGray: #eee;
+$white: #fff;
+
+// Font stacks
+// system typefaces
+$serif                        : Georgia, Times, serif !default;
+$sans-serif                   : "Helvetica Neue", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Lucida Grande", Arial, sans-serif !default;
+$monospace                    : Monaco, Consolas, "Lucida Console", monospace !default;
+// sans serif typefaces
+$sans-serif-narrow            : $sans-serif !default;
+$helvetica                    : Helvetica, "Helvetica Neue", Arial, sans-serif !default;
+$helveticaNeue                : "Helvetica Neue", Helvetica, Arial, sans-serif;
+// serif typefaces
+$georgia                      : Georgia, serif !default;
+$times                        : Times, serif !default;
+$bodoni                       : "Bodoni MT", serif !default;
+$calisto                      : "Calisto MT", serif !default;
+$garamond                     : Garamond, serif !default;
+$global-font-family           : $sans-serif !default;
+$header-font-family           : $sans-serif !default;
+$caption-font-family          : $serif !default;
+// type scale
+$type-size-1                  : 2.441em !default;  // ~39.056px
+$type-size-2                  : 1.953em !default;  // ~31.248px
+$type-size-3                  : 1.563em !default;  // ~25.008px
+$type-size-4                  : 1.25em !default;   // ~20px
+$type-size-5                  : 1em !default;      // ~16px
+$type-size-6                  : 0.75em !default;   // ~12px
+$type-size-7                  : 0.6875em !default; // ~11px
+$type-size-8                  : 0.625em !default;  // ~10px
+// font weights
+$font-thin                    : 100;
+$font-light                   : 250;
+$font-normal                  : 400;
+$font-medium                  : 550;
+$font-bold                    : 700;
+
+
+// Mobile breakpoints
+@mixin mobile {
+  @media screen and (max-width: 640px) {
+    @content;
+  }
+}
