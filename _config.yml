@@ -3,7 +3,7 @@
 #
 
 # The theme we use:
-remote_theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
 show_downloads: false
 
 # Name of your site (displayed in the header)
