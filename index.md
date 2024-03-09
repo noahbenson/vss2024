@@ -29,11 +29,13 @@ container, installation is simple.
 
 ## Speakers
 
+<div style="background:#f1f1f1">
+
 ### [Mark M. Schira](https://schiralab.com/)
 <table style="width:100%">
     <tr>
       <td class="speaker-image">
-        <img src="{{site.baseurl}}/images/mschira.png" width="150"/>
+        <img src="{{site.baseurl}}/images/mschira.png" width="175"/>
         </td>
       <td class="speaker-bio">
         <p>Dr. Schira is currently a Senior Lecturer in the School of Psychology at
@@ -44,6 +46,9 @@ container, installation is simple.
         </td>
         </tr>
         </table>
+
+</div>
+<div>
 
 ### [Noah C. Benson](https://nben.net/)
 <table style="width:100%">
@@ -63,16 +68,18 @@ container, installation is simple.
         University (2014-2020).</p>
         </td>
       <td class="speaker-image">
-        <img src="{{site.baseurl}}/images/nbenson.png" width="150"/>
+        <img src="{{site.baseurl}}/images/nbenson.png" width="175"/>
         </td>
         </tr>
         </table>
+</div>
+<div style="background:#f1f1f1">
 
 ### [Fernanda L. Ribeiro](https://felenitaribeiro.github.io/)
 <table style="width:100%">
     <tr>
       <td class="speaker-image">
-        <img src="{{site.baseurl}}/images/fribeiro.png" width="150"/>
+        <img src="{{site.baseurl}}/images/fribeiro.png" width="175"/>
         </td>
       <td class="speaker-bio">
         <p>I am a postdoc at the Computational Imaging Group, led by Steffen

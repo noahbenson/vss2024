@@ -292,8 +292,10 @@ footer {
 }
 
 .speaker-image {
-   width: 250px;
+   width: 200px;
    vertical-align: middle;
+   display: flex;
+   justify-content: center;
 }
 .speaker-bio {
    padding: 12px 0;
