@@ -45,7 +45,7 @@ virtual machine containing the compute environment using the following steps:
    repository directory.
    
    <pre>
-   <b>~$</b> <i>git clone https://github.com/noahbenson/vss2024</i>
+   ~$ <b>git clone https://github.com/noahbenson/vss2024</b>
    Cloning into 'vss2024'...
    remote: Enumerating objects: 164, done.
    remote: Counting objects: 100% (164/164), done.
@@ -53,18 +53,20 @@ virtual machine containing the compute environment using the following steps:
    remote: Total 164 (delta 77), reused 127 (delta 43), pack-reused 0
    Receiving objects: 100% (164/164), 27.80 MiB | 5.84 MiB/s, done.
    Resolving deltas: 100% (77/77), done.
-   <b>~$</b> <i>cd vss2024</i>
-   <b>vss2024$</b>
+   
+   ~$ <b>cd vss2024</b>
+   
+   vss2024$
    </pre>
 5. Have docker start the server. This may take awhile the first time you run it
    because the docker image must either be built or downloaded.
    
    <pre>
-   <b>vss2024$</b> <i>docker-compose up</i>
+   vss2024$ <b>docker-compose up</b>
    ...
    </pre>
    
-   This step will produce a lot of output, but toward the end will be a few
+   This last step will produce a lot of output, but toward the end will be a few
    lines that look like this:
    
    ```
