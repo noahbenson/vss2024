@@ -84,4 +84,4 @@ container, installation is simple.
         Federal University of ABC, Brazil), and now the intersection of AI and
         imaging. I am interested in (geometric) deep learning, vision,
         neuroscience, and explainable and fair AI research.</p>
-        </td></tr></table>
+        </td></tr></table></div>
