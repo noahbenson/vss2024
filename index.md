@@ -62,16 +62,21 @@ container, installation is simple.
         relationship between the anatomical structure of the brain and its
         function. He has worked as a post-doctoral associate at the University
         of Pennsylvania (2010-2014) and a research scientist at New York
-        University (2014-2020).</td>
+        University (2014-2020).
+        </td>
       <td>
-        <img src="{{site.baseurl}}/images/nbenson.png" width="150"/></td></tr></table>
+        <img src="{{site.baseurl}}/images/nbenson.png" width="150"/>
+        </td>
+        </tr>
+        </table>
 
 ### [Fernanda L. Ribeiro](https://felenitaribeiro.github.io/)
 
 <table style="width:100%">
     <tr>
       <td>
-        <img src="{{site.baseurl}}/images/fribeiro.png" width="150"/></td>
+        <img src="{{site.baseurl}}/images/fribeiro.png" width="150"/>
+        </td>
       <td>
         <p>I am a postdoc at the Computational Imaging Group, led by Steffen
         Bollmann. I recently finished my Ph.D. in Computational Imaging at UQ.
@@ -82,4 +87,7 @@ container, installation is simple.
         degree; University of Sao Paulo, Brazil), Neuroscience (Master's degree;
         Federal University of ABC, Brazil), and now the intersection of AI and
         imaging. I am interested in (geometric) deep learning, vision,
-        neuroscience, and explainable and fair AI research.</td></tr></table>
+        neuroscience, and explainable and fair AI research.
+        </td>
+        </tr>
+        </table>
