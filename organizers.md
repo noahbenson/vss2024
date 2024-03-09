@@ -8,9 +8,9 @@
         <img src="{{site.baseurl}}/images/nbenson.png" width="175"/>
         </td>
       <td class="speaker-bio">
-        <h3><a href="https://nben.net/">Noah C. Benson</a></h3>
-        <h4><a href="https://escience.washington.edu/">eScience Institute</a></h4>
-        <h4><a href="https://www.washington.edu/">University of Washington</a></h4>
+        <h3 class="hbio"><a href="https://nben.net/">Noah C. Benson</a></h3>
+        <h4 class="hbio"><a href="https://escience.washington.edu/">eScience Institute</a></h4>
+        <h4 class="hbio"><a href="https://www.washington.edu/">University of Washington</a></h4>
         <p><a href="https://github.com/noahbenson"><i class="svg-icon github"></i></a>
            <a href="mailto:nben@uw.edu"><i class="svg-icon email"></i></a>
            </p>
@@ -34,9 +34,9 @@
   <table style="width:100%">
     <tr>
       <td class="speaker-bio">
-        <h3><a href="https://schiralab.com/">Mark M. Schira</a></h3>
-        <h4>School of Psychology</h4>
-        <h4><a href="https://www.uow.edu.au/">University of Wollongong</a></h4>
+        <h3 class="hbio"><a href="https://schiralab.com/">Mark M. Schira</a></h3>
+        <h4 class="hbio">School of Psychology</h4>
+        <h4 class="hbio"><a href="https://www.uow.edu.au/">University of Wollongong</a></h4>
         <p><a href="https://github.com/mschira"><i class="svg-icon github"></i></a>
            <a href="mailto:mark.schira@gmail.com"><i class="svg-icon email"></i></a>
            </p>
@@ -59,9 +59,9 @@
         <img src="{{site.baseurl}}/images/fribeiro.png" width="175"/>
         </td>
       <td class="speaker-bio">
-        <h3><a href="https://felenitaribeiro.github.io/">Fernanda L. Ribeiro</a></h3>
-        <h4><a href="https://eecs.uq.edu.au/">School of Electrical Engineering and Computer Science</a></h4>
-        <h4><a href="https://www.uq.edu.au/">The University of Queensland</a></h4>
+        <h3 class="hbio"><a href="https://felenitaribeiro.github.io/">Fernanda L. Ribeiro</a></h3>
+        <h4 class="hbio"><a href="https://eecs.uq.edu.au/">School of Electrical Engineering and Computer Science</a></h4>
+        <h4 class="hbio"><a href="https://www.uq.edu.au/">The University of Queensland</a></h4>
         <p><a href="https://github.com/felenitaribeiro"><i class="svg-icon github"></i></a>
            <a href="mailto:fernanda.ribeiro@uq.edu.au"><i class="svg-icon email"></i></a>
            </p>
