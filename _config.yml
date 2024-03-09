@@ -11,9 +11,7 @@ name: How to Stop Worrying and Learn to Love Computational Neuroimaging of the V
 shortname: How to Stop Worrying...
 
 # Short bio or description (displayed in the header)
-description: |
-  <p style="margin:0">A Satellite Workshop for the Vision Sciences Society Meeting, 2024</p>
-  <p style="margin:0;font-size:9">Monday, May 20, 2024, 2:00-5:00pm, Banyan/Citrus Room</p>
+description: A Satellite Workshop for the Vision Sciences Society Meeting, 2024
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://upload.wikimedia.org/wikipedia/commons/6/60/BA17%2C18%2C19_-_Visual_cortex_%28V1%2C_V2%2C_V3%29_-_lateral_view.png
