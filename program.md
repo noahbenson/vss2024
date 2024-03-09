@@ -22,7 +22,18 @@ repository]({{ site.githuburl }}).** See the README file there for information
 on running them either using the workshop's compute environment or on your own.
 Lecture recordings will also be posted here.
 
-## Presentations
+
+## Who is the intended audience?
+
+This workshop is intended for researchers at all levels including students,
+post-docs, and principal investigators. Participants are expected to have some
+experience with the simple data science tools such as `git`, the unix shell, and
+Python. Advanced knowledge is not required, and participants can easily learn
+these skills from resources on the [preparation page]({{ site.baseurl
+}}/prep.md).
+
+
+## Curriculum
 
 * **How to stop worrying about software**  
   *Mark M. Schira*  
