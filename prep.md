@@ -52,6 +52,8 @@ episodes
 [3.5 (Retinotopic Maps)](https://www.youtube.com/watch?v=MhFJIgeY-ZY&list=PLyGKBDfnk-iAQx4Kw9JeVqspbg77sfAK0&index=29),
 and [3.8 (Beyond V1: Lots of Visual Areas)](https://www.youtube.com/watch?v=yqh9P_nVEMc&list=PLyGKBDfnk-iAQx4Kw9JeVqspbg77sfAK0&index=32).
 
+[![Human Brain Course](https://img.youtube.com/vi/i1pdQjdAndc/0.jpg){: width="250"}](https://www.youtube.com/playlist?list=PLyGKBDfnk-iAQx4Kw9JeVqspbg77sfAK0)
+
 We also recommend the first few episodes of a YouTube playlist by Prof. Jamie
 Ward (University of Sussex) for participants who would like a quick refresh on
 fMRI and visual cortex basics.
