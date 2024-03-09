@@ -36,7 +36,21 @@ Lecture recordings will also be posted here.
 
 *Noah C. Benson*
 
-<!-- Insert abstract / edit title here! -->
+This talk will discuss and show example usage for standard software tools that
+together build a functional MRI pipeline for processing retinotopic mapping
+experiments in a reproducible way. The session will end by demonstrating tools
+for drawing visual area boundaries.
+
+1. **Introduction and Dataset Description**
+2. **Preprocessing the Data**
+  * The Brain Imaging Data Structure ([`BIDS`](https://bids.neuroimaging.io/))
+  * [`fMRIprep`](https://fmriprep.org/en/stable/)
+3. **Modeling the Visual Responses**
+  * Population Receptive Field (pRF) models and General Linear Models (GLMs)
+  * [`PRFModel`](https://github.com/vistalab/PRFModel)
+4. **Annotating the Visual Cortex**
+  * Retinotopic maps and boundaries
+  * [`cortex-annotate`](https://github.com/noahbenson/cortex-annotate)
 
 
 ### Machine learning and automation in the visual cortex
