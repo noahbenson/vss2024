@@ -75,10 +75,10 @@ virtual machine containing the compute environment using the following steps:
    vss2024-neurodesk-1  |      http://127.0.0.1:8888/lab?token=9f49ca6423399b382fbfa198b7731581028eebfb6fb4eb57
    ```
    
-   Copy that final web-link
-   (`http://127.0.0.1:8888/lab?token=9f49ca6423399b382fbfa198b7731581028eebfb6fb4eb57`
+   Copy that entire final web-link (`http://127.0.0.1:8888/lab?token=9f49ca...`
    in the above example) into your web browser to access the compute
-   environment.
+   environment. You can then navigate to the tutorials directory to access the
+   tutorial notebooks.
 
 
 
