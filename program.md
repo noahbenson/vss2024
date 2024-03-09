@@ -30,7 +30,7 @@ post-docs, and principal investigators. Participants are expected to have some
 experience with the simple data science tools such as `git`, the unix shell, and
 Python. Advanced knowledge is not required, and participants can easily learn
 these skills from resources on the [preparation page]({{ site.baseurl
-}}/prep.md).
+}}/prep).
 
 
 ## Curriculum
