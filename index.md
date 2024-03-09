@@ -32,10 +32,10 @@ container, installation is simple.
 ### [Mark M. Schira](https://schiralab.com/)
 <table style="width:100%">
     <tr>
-      <td>
+      <td class="speaker-image">
         <img src="{{site.baseurl}}/images/mschira.png" width="150"/>
         </td>
-      <td>
+      <td class="speaker-bio">
         <p>Dr. Schira is currently a Senior Lecturer in the School of Psychology at
         the University of Wollongong. He has a Dr. rer. nat. (Doctorate in
         Natural Sciences) in Human Neurobiology from the University of Bremen
@@ -48,7 +48,7 @@ container, installation is simple.
 ### [Noah C. Benson](https://nben.net/)
 <table style="width:100%">
     <tr>
-      <td>
+      <td class="speaker-bio">
         <p>Noah Benson is a senior data scientist at the University of
         Washington’s eScience Institute. He received his B.S. from Purdue
         University where triple-majored in computer science, math, and biology
@@ -62,7 +62,7 @@ container, installation is simple.
         of Pennsylvania (2010-2014) and a research scientist at New York
         University (2014-2020).</p>
         </td>
-      <td>
+      <td class="speaker-image">
         <img src="{{site.baseurl}}/images/nbenson.png" width="150"/>
         </td>
         </tr>
@@ -71,10 +71,10 @@ container, installation is simple.
 ### [Fernanda L. Ribeiro](https://felenitaribeiro.github.io/)
 <table style="width:100%">
     <tr>
-      <td>
+      <td class="speaker-image">
         <img src="{{site.baseurl}}/images/fribeiro.png" width="150"/>
         </td>
-      <td>
+      <td class="speaker-bio">
         <p>I am a postdoc at the Computational Imaging Group, led by Steffen
         Bollmann. I recently finished my Ph.D. in Computational Imaging at UQ.
         Specifically, my Ph.D. work involved predicting the functional
