@@ -17,10 +17,17 @@ computing environment running [Neurodesk](https://www.neurodesk.org/) on which
 all tutorials can be performed (a contemporary web-browser is all that is
 required for participants to use this interface).  Participants will have access
 to the compute environment for at least one month after VSS ends, and tutorials
-and lecture recordings will be made public. Neurodesk is an open source platform
-that includes many standard neuroscience software tools and provides them via a
-browser-based interface. Users can interface with it via the command-line, a
-[Jupyter](https://jupyter.org/) interface, or a graphical desktop, all
-accessible using only a web-browser. Because Neurodesk runs in either a
-[Docker](https://docker.org/) or [Singularity](https://sylabs.io/singularity/)
-container, installation is simple.
+and lecture recordings will be made public.
+
+Neurodesk is an open source platform that includes many standard neuroscience
+software tools and provides them via a browser-based interface. Users can a
+command-line, a [Jupyter](https://jupyter.org/) interface, or a graphical
+desktop, without needing to install anything but a modern web-browser. Because
+the Neurodesk server runs in either a [Docker](https://docker.org/) or
+[Singularity](https://sylabs.io/singularity/) container, installation is
+simple. It and the tools demonstrated in this workshop can be used as easily on
+a lab server, on a personal laptop, or in the cloud.
+
+See the [Program]({{ site.baseurl }}/program) for more information on topics
+that will be covered in the workshop. Please [Register]({{ site.baseurl
+}}/register) if you wish to attend.
