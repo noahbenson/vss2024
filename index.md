@@ -30,18 +30,24 @@ container, installation is simple.
 ## Speakers
 
 ### [Mark M. Schira](https://schiralab.com/)
+
 <table style="width:100%">
     <tr>
       <td>
-        <img src="{{site.baseurl}}/images/mschira.png" width="150"/></td>
+        <img src="{{site.baseurl}}/images/mschira.png" width="150"/>
+        </td>
       <td>
         <p>Dr. Schira is currently a Senior Lecturer in the School of Psychology at
         the University of Wollongong. He has a Dr. rer. nat. (Doctorate in
         Natural Sciences) in Human Neurobiology from the University of Bremen
         and Charité; University Hospital in Berlin. Mark began his research lab
-        at the University of Wollongong in 2013.</td></tr></table>
+        at the University of Wollongong in 2013.
+        </td>
+        </tr>
+        </table>
 
 ### [Noah C. Benson](https://nben.net/)
+
 <table style="width:100%">
     <tr>
       <td>
@@ -61,6 +67,7 @@ container, installation is simple.
         <img src="{{site.baseurl}}/images/nbenson.png" width="150"/></td></tr></table>
 
 ### [Fernanda L. Ribeiro](https://felenitaribeiro.github.io/)
+
 <table style="width:100%">
     <tr>
       <td>
