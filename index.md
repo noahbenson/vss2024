@@ -29,7 +29,7 @@ container, installation is simple.
 
 ## Speakers
 
-<div style="background:#f1f1f1">
+<div>
   <h3><a href="https://schiralab.com/">Mark M. Schira</a></h3>
   <table style="width:100%">
     <tr>
@@ -66,7 +66,7 @@ container, installation is simple.
         <img src="{{site.baseurl}}/images/nbenson.png" width="175"/>
         </td></tr></table></div>
 
-<div style="background:#f1f1f1">
+<div>
   <h3><a href="https://felenitaribeiro.github.io/">Fernanda L. Ribeiro</a></h3>
   <table style="width:100%">
     <tr>
