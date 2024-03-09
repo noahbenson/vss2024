@@ -18,8 +18,8 @@ requies only a modern web browser and a GitHub username. Tutorials and lectures
 will be made available to the public.
 
 **Tutorials for the course will be made public in the [accompanying GitHub
-repository]({{side.githuburl}}).** See the README file there for information on
-running them either using the workshop's compute environment or on your own.
+repository]({{ site.githuburl }}).** See the README file there for information
+on running them either using the workshop's compute environment or on your own.
 Lecture recordings will also be posted here.
 
 ## Presentations
