@@ -29,18 +29,18 @@ those who prefer reading through the tutorials. Video recordings of the related
 tutorials by Software Carpentry are also linked for those who prefer to watch
 them.
 
-#### The Unix Shell
-[Lesson Pages](https://swcarpentry.github.io/shell-novice/)  
-[![Unix Shell Lesson Videos](https://img.youtube.com/vi/U3iNcBtycaQ/0.jpg){: width="250"}](https://www.youtube.com/watch?v=U3iNcBtycaQ&list=PLA86D04D6E0BFD2E0)
+* **The Unix Shell**  
+  [Lesson Pages](https://swcarpentry.github.io/shell-novice/)  
+  [![Unix Shell Lesson Videos](https://img.youtube.com/vi/U3iNcBtycaQ/0.jpg){: width="250"}](https://www.youtube.com/watch?v=U3iNcBtycaQ&list=PLA86D04D6E0BFD2E0)
 
-#### Git and GitHub
-[Lesson Pages](https://swcarpentry.github.io/git-novice/)  
-[![Git and GitHub Lesson Videos](https://img.youtube.com/vi/gY2JwRfin1M/0.jpg){: width="250"}](https://www.youtube.com/watch?v=gY2JwRfin1M&list=PL3657A5820B1C4397)
+* **Git and GitHub**  
+  [Lesson Pages](https://swcarpentry.github.io/git-novice/)  
+  [![Git and GitHub Lesson Videos](https://img.youtube.com/vi/gY2JwRfin1M/0.jpg){: width="250"}](https://www.youtube.com/watch?v=gY2JwRfin1M&list=PL3657A5820B1C4397)
 
-#### Python
-[Lesson Pages (focus on arrays/numpy)](https://swcarpentry.github.io/python-novice-inflammation),
-[Lesson Pages (focus on data tables/pandas)](https://swcarpentry.github.io/python-novice-gapminder)  
-[![Python Lesson Videos](https://img.youtube.com/vi/G1GjUZgZQbk/0.jpg){: width="250"}](https://www.youtube.com/watch?v=G1GjUZgZQbk&list=PLBC2E3FD80F2AC95F)
+* **Python**  
+  [Lesson Pages (focus on arrays/numpy)](https://swcarpentry.github.io/python-novice-inflammation),
+  [Lesson Pages (focus on data tables/pandas)](https://swcarpentry.github.io/python-novice-gapminder)  
+  [![Python Lesson Videos](https://img.youtube.com/vi/G1GjUZgZQbk/0.jpg){: width="250"}](https://www.youtube.com/watch?v=G1GjUZgZQbk&list=PLBC2E3FD80F2AC95F)
 
   
 ### Neuroscience Skills
