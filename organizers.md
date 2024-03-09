@@ -4,7 +4,7 @@
 <div>
   <table style="width:100%">
     <tr>
-      <td class="speaker-image-leftt">
+      <td class="speaker-image-left">
         <img src="{{site.baseurl}}/images/nbenson.png" width="175"/>
         </td>
       <td class="speaker-bio">
