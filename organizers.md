@@ -4,6 +4,9 @@
 <div>
   <table style="width:100%">
     <tr>
+      <td class="speaker-image-leftt">
+        <img src="{{site.baseurl}}/images/nbenson.png" width="175"/>
+        </td>
       <td class="speaker-bio">
         <h3><a href="https://nben.net/">Noah C. Benson</a></h3>
         <h4><a href="https://escience.washington.edu/">eScience Institute</a></h4>
@@ -23,9 +26,6 @@
         function. He has worked as a post-doctoral associate at the University
         of Pennsylvania (2010-2014) and a research scientist at New York
         University (2014-2020).</p>
-        </td>
-      <td class="speaker-image-right">
-        <img src="{{site.baseurl}}/images/nbenson.png" width="175"/>
         </td></tr></table></div>
 
 ---
@@ -33,9 +33,6 @@
 <div>
   <table style="width:100%">
     <tr>
-      <td class="speaker-image-left">
-        <img src="{{site.baseurl}}/images/mschira.png" width="175"/>
-        </td>
       <td class="speaker-bio">
         <h3><a href="https://schiralab.com/">Mark M. Schira</a></h3>
         <h4>School of Psychology</h4>
@@ -48,6 +45,9 @@
         Natural Sciences) in Human Neurobiology from the University of Bremen
         and Charit&eacute;; University Hospital in Berlin. Mark began his research lab
         at the University of Wollongong in 2013.</p>
+        </td>
+      <td class="speaker-image-right">
+        <img src="{{site.baseurl}}/images/mschira.png" width="175"/>
         </td></tr></table></div>
 
 ---
