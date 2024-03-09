@@ -291,11 +291,15 @@ footer {
   text-align: center;
 }
 
-.speaker-image {
+.speaker-image-left {
    width: 200px;
    vertical-align: middle;
-   display: flex;
-   justify-content: center;
+   text-align: left;
+}
+.speaker-image-right {
+   width: 200px;
+   vertical-align: middle;
+   text-align: right;
 }
 .speaker-bio {
    padding: 12px 0;

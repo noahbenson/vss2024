@@ -30,11 +30,10 @@ container, installation is simple.
 ## Speakers
 
 <div style="background:#f1f1f1">
-
-### [Mark M. Schira](https://schiralab.com/)
-<table style="width:100%">
+  <h3><a href="https://schiralab.com/">Mark M. Schira</a></h3>
+  <table style="width:100%">
     <tr>
-      <td class="speaker-image">
+      <td class="speaker-image-left">
         <img src="{{site.baseurl}}/images/mschira.png" width="175"/>
         </td>
       <td class="speaker-bio">
@@ -43,15 +42,11 @@ container, installation is simple.
         Natural Sciences) in Human Neurobiology from the University of Bremen
         and Charit&eacute;; University Hospital in Berlin. Mark began his research lab
         at the University of Wollongong in 2013.</p>
-        </td>
-        </tr>
-        </table>
+        </td></tr></table></div>
 
-</div>
 <div>
-
-### [Noah C. Benson](https://nben.net/)
-<table style="width:100%">
+  <h3><a href="https://nben.net/">Noah C. Benson</a></h3>
+  <table style="width:100%">
     <tr>
       <td class="speaker-bio">
         <p>Noah Benson is a senior data scientist at the University of
@@ -67,18 +62,15 @@ container, installation is simple.
         of Pennsylvania (2010-2014) and a research scientist at New York
         University (2014-2020).</p>
         </td>
-      <td class="speaker-image">
+      <td class="speaker-image-right">
         <img src="{{site.baseurl}}/images/nbenson.png" width="175"/>
-        </td>
-        </tr>
-        </table>
-</div>
-<div style="background:#f1f1f1">
+        </td></tr></table></div>
 
-### [Fernanda L. Ribeiro](https://felenitaribeiro.github.io/)
-<table style="width:100%">
+<div style="background:#f1f1f1">
+  <h3><a href="https://felenitaribeiro.github.io/">Fernanda L. Ribeiro</a></h3>
+  <table style="width:100%">
     <tr>
-      <td class="speaker-image">
+      <td class="speaker-image-left">
         <img src="{{site.baseurl}}/images/fribeiro.png" width="175"/>
         </td>
       <td class="speaker-bio">
@@ -92,6 +84,4 @@ container, installation is simple.
         Federal University of ABC, Brazil), and now the intersection of AI and
         imaging. I am interested in (geometric) deep learning, vision,
         neuroscience, and explainable and fair AI research.</p>
-        </td>
-        </tr>
-        </table>
+        </td></tr></table>
