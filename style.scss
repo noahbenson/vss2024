@@ -24,6 +24,8 @@ body {
   font: 18px/1.4 $helveticaNeue;
   color: $darkGray;
   font-weight: 250;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .container {
@@ -303,6 +305,8 @@ footer {
 }
 .speaker-bio {
    padding: 12px 0;
+   text-align: justify;
+   text-justify: inter-word;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
