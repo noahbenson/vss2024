@@ -40,7 +40,7 @@ container, installation is simple.
         the University of Wollongong. He has a Dr. rer. nat. (Doctorate in
         Natural Sciences) in Human Neurobiology from the University of Bremen
         and Charit&eacute;; University Hospital in Berlin. Mark began his research lab
-        at the University of Wollongong in 2013.
+        at the University of Wollongong in 2013.</p>
         </td>
         </tr>
         </table>
@@ -60,7 +60,7 @@ container, installation is simple.
         relationship between the anatomical structure of the brain and its
         function. He has worked as a post-doctoral associate at the University
         of Pennsylvania (2010-2014) and a research scientist at New York
-        University (2014-2020).
+        University (2014-2020).</p>
         </td>
       <td>
         <img src="{{site.baseurl}}/images/nbenson.png" width="150"/>
@@ -84,7 +84,7 @@ container, installation is simple.
         degree; University of Sao Paulo, Brazil), Neuroscience (Master's degree;
         Federal University of ABC, Brazil), and now the intersection of AI and
         imaging. I am interested in (geometric) deep learning, vision,
-        neuroscience, and explainable and fair AI research.
+        neuroscience, and explainable and fair AI research.</p>
         </td>
         </tr>
         </table>
