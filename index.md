@@ -1,3 +1,30 @@
-![How to Stop Worrying and Learn to Love Neuroimaging of the Visual Cortex](images/header.gif "How to stop worrying...")
+![How to Stop Worrying and Love Neuroimaging of the Visual Cortex](images/header.webp "How to stop worrying...")
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
+
+## About this Workshop
+
+Visual neuroimaging has never been as powerful or as complex as it is
+today. Fortunately, the increase in software complexity in recent years has been
+accompanied by the development of powerful tools to automate pipelines, ensure
+reproducibility, and simplify software and lab management. **This workshop,
+conducted as a satellite event at the 2024 annual meeting of the [Vision
+Sciences Society](https://www.visionsciences.org/), will introduce the
+participants to these tools and live-code practical tutorials in their use.**
+The session will focus on computational approaches to MRI work, but substantial
+portions will be applicable to other neuroimaging methods.
+
+As part of registration, all participants will be given access to a cloud-based
+computing environment running [Neurodesk](https://www.neurodesk.org/) on which
+all tutorials can be performed (a contemporary web-browser is all that is
+required for participants to use this interface).  Participants will have access
+to the compute environment for at least one month after VSS ends. Neurodesk is
+an open source platform that includes many standard neuroscience software tools
+and provides them via a browser-based interface. Users can interface with it via
+the command-line, a [Jupyter](https://jupyter.org/) interface, or a graphical
+desktop, all accessible using only a web-browser. Because Neurodesk runs in
+either a [Docker](https://docker.org/) or
+[Singularity](https://sylabs.io/singularity/) container, installation is simple.
+
+---
+
