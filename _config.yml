@@ -53,6 +53,9 @@ url: http://noahbenson.github.io
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/vss2024"
 
+# The github repository url
+githuburl: https://github.com/noahbenson/vss2024
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #

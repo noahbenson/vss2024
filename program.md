@@ -17,6 +17,10 @@ platform, with the software discussed in the workshop. Use of this compute
 environment requies only a modern web browser and a GitHub username. Tutorials
 and lectures will be made available to the public.
 
+**Tutorials for the course will be made public in the [accompanying GitHub
+repository]({{side.githuburl}}).** See the README file there for information on
+running them either using the workshop's compute environment or on your own.
+Lecture recordings will also be posted here.
 
 ## Presentations
 
@@ -29,4 +33,3 @@ and lectures will be made available to the public.
 * **Machine learning and automation in the visual cortex**  
   *Fernanda L. Ribeiro*  
   <!-- Insert abstract / edit title here! -->
-
