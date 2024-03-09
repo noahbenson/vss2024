@@ -43,15 +43,17 @@ them.
 
 Participants will get the most out of this workshop if they are comfortable with
 several basic visual neuroscience topics. Expertise is not required, just
-familiarity. We recommend the first few episodes of a YouTube playlist by
-Prof. Jamie Ward (University of Sussex) for participants who would like to
-refresh their visual neuroimaging expertise.
+familiarity. We recommend this excellent online 
+[course on the Human Brain](https://www.youtube.com/playlist?list=PLyGKBDfnk-iAQx4Kw9JeVqspbg77sfAK0)
+by Prof. Nancy Kanwisher (Massachusetts Institute of Technology), in particular
+episodes
+[2.11 (fMRI)](https://www.youtube.com/watch?v=4lLPeCNOpgA&list=PLyGKBDfnk-iAQx4Kw9JeVqspbg77sfAK0&index=16),
+[3.4 (LGN &amp; V1)](https://www.youtube.com/watch?v=CvxlN2_bTzY&list=PLyGKBDfnk-iAQx4Kw9JeVqspbg77sfAK0&index=28),
+[3.5 (Retinotopic Maps)](https://www.youtube.com/watch?v=MhFJIgeY-ZY&list=PLyGKBDfnk-iAQx4Kw9JeVqspbg77sfAK0&index=29),
+and [3.8 (Beyond V1: Lots of Visual Areas)](https://www.youtube.com/watch?v=yqh9P_nVEMc&list=PLyGKBDfnk-iAQx4Kw9JeVqspbg77sfAK0&index=32).
+
+We also recommend the first few episodes of a YouTube playlist by Prof. Jamie
+Ward (University of Sussex) for participants who would like a quick refresh on
+fMRI and visual cortex basics.
 
 [![Python Lesson Videos](https://img.youtube.com/vi/-C84RFgyzuE/0.jpg){: width="250"}](https://www.youtube.com/playlist?list=PL9bHtYW9sTg2qVkVxA-N9teKQ1dVULeo4)
-
-Some knowledge of retinotopic maps and the basic organization of visual cortex
-is also helpful. For this, we recommend the following short presentation by
-Prof. Nancy Kanwisher (Massachusetts Institute of Technology).
-
-[![Python Lesson Videos](https://img.youtube.com/vi/MhFJIgeY-ZY/0.jpg){: width="250"}](https://www.youtube.com/watch?v=MhFJIgeY-ZY)
-
