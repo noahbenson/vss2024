@@ -1,26 +1,5 @@
 # Speakers
 
-<div>
-  <table style="width:100%">
-    <tr>
-      <td class="speaker-image-left">
-        <img src="{{site.baseurl}}/images/mschira.png" width="175"/>
-        </td>
-      <td class="speaker-bio">
-        <h3><a href="https://schiralab.com/">Mark M. Schira</a></h3>
-        <h4>School of Psychology</h4>
-        <h4><a href="https://www.uow.edu.au/">University of Wollongong</a></h4>
-        <p><a href="https://github.com/mschira"><i class="svg-icon github"></i></a>
-           <a href="mailto:mark.schira@gmail.com"><i class="svg-icon email"></i></a>
-           </p>
-        <p>Dr. Schira is currently a Senior Lecturer in the School of Psychology at
-        the University of Wollongong. He has a Dr. rer. nat. (Doctorate in
-        Natural Sciences) in Human Neurobiology from the University of Bremen
-        and Charit&eacute;; University Hospital in Berlin. Mark began his research lab
-        at the University of Wollongong in 2013.</p>
-        </td></tr></table></div>
-
----
 
 <div>
   <table style="width:100%">
@@ -47,6 +26,28 @@
         </td>
       <td class="speaker-image-right">
         <img src="{{site.baseurl}}/images/nbenson.png" width="175"/>
+        </td></tr></table></div>
+
+---
+
+<div>
+  <table style="width:100%">
+    <tr>
+      <td class="speaker-image-left">
+        <img src="{{site.baseurl}}/images/mschira.png" width="175"/>
+        </td>
+      <td class="speaker-bio">
+        <h3><a href="https://schiralab.com/">Mark M. Schira</a></h3>
+        <h4>School of Psychology</h4>
+        <h4><a href="https://www.uow.edu.au/">University of Wollongong</a></h4>
+        <p><a href="https://github.com/mschira"><i class="svg-icon github"></i></a>
+           <a href="mailto:mark.schira@gmail.com"><i class="svg-icon email"></i></a>
+           </p>
+        <p>Dr. Schira is currently a Senior Lecturer in the School of Psychology at
+        the University of Wollongong. He has a Dr. rer. nat. (Doctorate in
+        Natural Sciences) in Human Neurobiology from the University of Bremen
+        and Charit&eacute;; University Hospital in Berlin. Mark began his research lab
+        at the University of Wollongong in 2013.</p>
         </td></tr></table></div>
 
 ---
