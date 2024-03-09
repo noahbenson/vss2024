@@ -8,6 +8,10 @@ browser is required. A laptop (not a a tablet or chromebook) is required to
 follow along with tutorials during the course. Registered participants are also
 welcome to come and just observe if they wish.
 
+If you wish to run the tutorials outside of the course, instructions on doing so
+can be found at the course's [GitHub
+repository](https://github.com/noahbenson/vss2024).
+
 
 ## Required Skills and Where to Get Them
 
