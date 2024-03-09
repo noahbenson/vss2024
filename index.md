@@ -30,13 +30,13 @@ container, installation is simple.
 ## Speakers
 
 <div>
-  <h3><a href="https://schiralab.com/">Mark M. Schira</a></h3>
   <table style="width:100%">
     <tr>
       <td class="speaker-image-left">
         <img src="{{site.baseurl}}/images/mschira.png" width="175"/>
         </td>
       <td class="speaker-bio">
+        <h3><a href="https://schiralab.com/">Mark M. Schira</a></h3>
         <p>Dr. Schira is currently a Senior Lecturer in the School of Psychology at
         the University of Wollongong. He has a Dr. rer. nat. (Doctorate in
         Natural Sciences) in Human Neurobiology from the University of Bremen
@@ -45,10 +45,10 @@ container, installation is simple.
         </td></tr></table></div>
 
 <div>
-  <h3><a href="https://nben.net/">Noah C. Benson</a></h3>
   <table style="width:100%">
     <tr>
       <td class="speaker-bio">
+        <h3><a href="https://nben.net/">Noah C. Benson</a></h3>
         <p>Noah Benson is a senior data scientist at the University of
         Washington’s eScience Institute. He received his B.S. from Purdue
         University where triple-majored in computer science, math, and biology
@@ -67,13 +67,13 @@ container, installation is simple.
         </td></tr></table></div>
 
 <div>
-  <h3><a href="https://felenitaribeiro.github.io/">Fernanda L. Ribeiro</a></h3>
   <table style="width:100%">
     <tr>
       <td class="speaker-image-left">
         <img src="{{site.baseurl}}/images/fribeiro.png" width="175"/>
         </td>
       <td class="speaker-bio">
+        <h3><a href="https://felenitaribeiro.github.io/">Fernanda L. Ribeiro</a></h3>
         <p>I am a postdoc at the Computational Imaging Group, led by Steffen
         Bollmann. I recently finished my Ph.D. in Computational Imaging at UQ.
         Specifically, my Ph.D. work involved predicting the functional
