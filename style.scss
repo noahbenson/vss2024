@@ -284,7 +284,7 @@ nav {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
-  font-size: 10pt;
+  font-size: 10px;
 }
 
 footer {
@@ -309,6 +309,7 @@ footer {
 .hbio {
    margin: 2px;
    padding: 2px;
+   font-size: 12px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

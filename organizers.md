@@ -7,9 +7,9 @@
         <img src="{{site.baseurl}}/images/nbenson.png" width="175"/>
         </td>
       <td class="speaker-bio">
-        <h3><a class="hbio" href="https://nben.net/">Noah C. Benson</a></h3>
-        <h4><a class="hbio" href="https://escience.washington.edu/">eScience Institute</a></h4>
-        <h4><a class="hbio" href="https://www.washington.edu/">University of Washington</a></h4>
+        <p class="hbio"><a href="https://nben.net/">Noah C. Benson</a></h3>
+        <p class="hbio"><a href="https://escience.washington.edu/">eScience Institute</a></h4>
+        <p class="hbio"><a href="https://www.washington.edu/">University of Washington</a></h4>
         <p><a href="https://github.com/noahbenson"><i class="svg-icon github"></i></a>
            <a href="mailto:nben@uw.edu"><i class="svg-icon email"></i></a>
            </p>
