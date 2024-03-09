@@ -25,12 +25,22 @@ Lecture recordings will also be posted here.
 
 ## Curriculum
 
-* **How to stop worrying about software**  
-  *Mark M. Schira*  
-  <!-- Insert abstract / edit title here! -->
-* **A reproducible pipeline for visual neuroimaging**  
-  *Noah C. Benson*  
-  <!-- Insert abstract / edit title here! -->
-* **Machine learning and automation in the visual cortex**  
-  *Fernanda L. Ribeiro*  
-  <!-- Insert abstract / edit title here! -->
+### How to stop worrying about software**
+
+*Mark M. Schira*
+
+<!-- Insert abstract / edit title here! -->
+
+
+### A reproducible pipeline for visual neuroimaging
+
+*Noah C. Benson*
+
+<!-- Insert abstract / edit title here! -->
+
+
+### Machine learning and automation in the visual cortex
+
+*Fernanda L. Ribeiro*
+
+<!-- Insert abstract / edit title here! -->
