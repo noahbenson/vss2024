@@ -25,7 +25,7 @@ Lecture recordings will also be posted here.
 
 ## Curriculum
 
-### How to stop worrying about software**
+### How to stop worrying about software
 
 *Mark M. Schira*
 
