@@ -1,6 +1,6 @@
 # Registration
 
-<div id="eventbrite-widget-container-{{page.eventbrite}}"></div>
+<div id="eventbrite-widget-container-{{site.eventbrite}}"></div>
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
@@ -12,8 +12,8 @@
     window.EBWidgets.createWidget({
         // Required
         widgetType: 'checkout',
-        eventId: '{{page.eventbrite}}',
-        iframeContainerId: 'eventbrite-widget-container-{{page.eventbrite}}',
+        eventId: '{{site.eventbrite}}',
+        iframeContainerId: 'eventbrite-widget-container-{{site.eventbrite}}',
 
         // Optional
         iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
