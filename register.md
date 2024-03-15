@@ -26,7 +26,7 @@ waiver.
         iframeContainerId: 'eventbrite-widget-container-{{site.eventbrite}}',
 
         // Optional
-        iframeContainerHeight: 900,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        iframeContainerHeight: 925,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
