@@ -1,12 +1,14 @@
 # Registration
 
-Registration fees are $10 for students, $20 for postdocs, and $50 for principal
-investigators. All fees will go toward providing a computing environment for the
-workshop, and participants will maintain access to that environment, including
-all tutorials and lecture materials, for at least one month following the
-conclusion of VSS.
+Registration fees are $10 for students, $20 for postdocs and academic research
+staff without principal investigator status, and $50 for all others including
+principal investigators. All fees will go toward providing a computing
+environment for the workshop, and participants will maintain access to that
+environment, including all tutorials and lecture materials, for at least one
+month following the conclusion of VSS.
 
-Please contact [Noah Benson](mailto:nben@uw.edu) if you need to request a fee waiver.
+Please contact [Noah Benson](mailto:nben@uw.edu) if you need to request a fee
+waiver.
 
 <div id="eventbrite-widget-container-{{site.eventbrite}}"></div>
 
