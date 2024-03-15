@@ -6,7 +6,7 @@ workshop, and participants will maintain access to that environment, including
 all tutorials and lecture materials, for at least one month following the
 conclusion of VSS.
 
-Please contact [Noah Benson](mailto:nben@nben.net) if you need to request a fee waiver.
+Please contact [Noah Benson](mailto:nben@uw.edu) if you need to request a fee waiver.
 
 <div id="eventbrite-widget-container-{{site.eventbrite}}"></div>
 
