@@ -1,6 +1,8 @@
-![How to Stop Worrying and Love Neuroimaging of the Visual Cortex](images/header.webp "How to stop worrying...")
-
----
+<div class="wrapper-masthead">
+<div class="masthead clearfix">
+<p><img src="images/header.webp" alt="How to Stop Worrying and Love Neuroimaging of the Visual Cortex" title="How to stop worrying..."/></p>
+</div>
+</div>
 
 ## About this Workshop
 
