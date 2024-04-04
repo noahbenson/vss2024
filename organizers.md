@@ -64,14 +64,14 @@
         <p><a href="https://github.com/felenitaribeiro"><i class="svg-icon github"></i></a>
            <a href="mailto:fernanda.ribeiro@uq.edu.au"><i class="svg-icon email"></i></a>
            </p>
-        <p>I am a postdoc at the Computational Imaging Group, led by Steffen
-        Bollmann. I recently finished my Ph.D. in Computational Imaging at UQ.
-        Specifically, my Ph.D. work involved predicting the functional
-        organization of the human visual cortex from underlying anatomy using
-        geometric deep learning. To tackle this and other research questions, I
-        am leveraging my interdisciplinary background in Biophysics (Bachelor's
+        <p>Fernanda is a postdoc at the Computational Imaging Group, led by Steffen
+        Bollmann. She completed her Ph.D. in Computational Imaging at The University of Queensland in 2022.
+        Her Ph.D. work involved developing a deep learning model capable of predicting the retinotopic 
+        organization of the human visual cortex from underlying anatomy, revealing significant interindividual 
+        variability in retinotopy across early visual areas. To tackle this and other research questions, she 
+        is leveraging her interdisciplinary background in Biophysics (Bachelor's
         degree; University of Sao Paulo, Brazil), Neuroscience (Master's degree;
         Federal University of ABC, Brazil), and now the intersection of AI and
-        imaging. I am interested in (geometric) deep learning, vision,
+        imaging. She is interested in (geometric) deep learning, vision,
         neuroscience, and explainable and fair AI research.</p>
         </td></tr></table></div>
