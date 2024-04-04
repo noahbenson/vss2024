@@ -10,11 +10,11 @@ science/neuroscience software tools and to give them enough initial experience
 to be able to apply them in their own research.** We cannot teach everything
 about any tool in a three hour workshop, but through hands-on tutorials and
 follow-along coding, we intend to help participants past the hardest part of the
-learning process: getting starting. In addition to learning about neuroscience
+learning process: getting started. In addition to learning about neuroscience
 software, participants will receive 1 month of access to a virtual compute
 environment preconfigured using the [Neurodesk](https://neurodesk.org/) platform
-with the software discussed in the workshop. Use of this compute environment
-requies only a modern web browser and a GitHub username. Tutorials and lectures
+with the software discussed in the workshop. Use of this computing environment
+requires only a modern web browser and a GitHub username. Tutorials and lectures
 will be made available to the public.
 
 **Tutorials for the course will be made public in the [accompanying GitHub

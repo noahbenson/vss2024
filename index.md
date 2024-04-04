@@ -24,8 +24,8 @@ to the compute environment for at least one month after VSS ends, and tutorials
 and lecture recordings will be made public.
 
 Neurodesk is an open source platform that includes many standard neuroscience
-software tools and provides them via a browser-based interface. Users can a
-command-line, a [Jupyter](https://jupyter.org/) interface, or a graphical
+software tools and provides them via a browser-based interface. Users can opt for a
+command-line interface, a [Jupyter](https://jupyter.org/) interface, or a graphical
 desktop, without needing to install anything but a modern web-browser. Because
 the Neurodesk server runs in either a [Docker](https://docker.org/) or
 [Singularity](https://sylabs.io/singularity/) container, installation is

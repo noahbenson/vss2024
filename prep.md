@@ -4,7 +4,7 @@
 
 Participants will be sent instructions on connecting to the virtual compute
 environment for the course once they register. No software beyond a modern web
-browser is required. A laptop (not a a tablet or chromebook) is required to
+browser is required. A laptop (not a tablet or chromebook) is required to
 follow along with tutorials during the course. Registered participants are also
 welcome to come and just observe if they wish.
 
