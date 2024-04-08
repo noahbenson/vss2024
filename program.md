@@ -57,4 +57,13 @@ for drawing visual area boundaries.
 
 *Fernanda L. Ribeiro*
 
+In this final session, we will introduce deepRetinotopy and demonstrate its command line interface to predict retinotopic maps using FreeSurfer derivatives. Then, we perform a visual field sign analysis to guide delineating visual area boundaries.
+
+1. **Predicting retinotopic maps with deepRetinotopy**
+  * Polar angle and eccentricity maps
+  * [`deepRetinotopy`](https://github.com/felenitaribeiro/deepRetinotopy_TheToolbox))
+3. **Visual field sign analysis**
+  * Binary representation of visual areas where adjacent visual areas have distinct field signs
+  * [`deepRetinotopy`](https://github.com/felenitaribeiro/deepRetinotopy_TheToolbox))
+    
 <!-- Insert abstract / edit title here! -->
