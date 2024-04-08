@@ -61,9 +61,9 @@ In this final session, we will introduce deepRetinotopy and demonstrate its comm
 
 1. **Predicting retinotopic maps with deepRetinotopy**
   * Polar angle and eccentricity maps
-  * [`deepRetinotopy`](https://github.com/felenitaribeiro/deepRetinotopy_TheToolbox))
+  * [`deepRetinotopy`](https://github.com/felenitaribeiro/deepRetinotopy_TheToolbox)
 3. **Visual field sign analysis**
   * Binary representation of visual areas where adjacent visual areas have distinct field signs
-  * [`deepRetinotopy`](https://github.com/felenitaribeiro/deepRetinotopy_TheToolbox))
+  * [`deepRetinotopy`](https://github.com/felenitaribeiro/deepRetinotopy_TheToolbox)
     
 <!-- Insert abstract / edit title here! -->
