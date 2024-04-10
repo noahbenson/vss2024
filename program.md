@@ -41,6 +41,8 @@ This talk will introduce the web based neurodesk instance and how to access it. 
   * The [`HBA project`](hba.neura.edu.org)
   * Making [`data`](https://osf.io/ckh5t/) available on OSF.io
 4. **Herding cats**
+  * teaching undergraduates using a cloud neurodesk
+
 
 
 
