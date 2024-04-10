@@ -42,8 +42,7 @@
         <p>Dr. Schira is currently a Senior Lecturer in the School of Psychology at
         the University of Wollongong. He has a Dr. rer. nat. (Doctorate in
         Natural Sciences) in Human Neurobiology from the University of Bremen
-        and Charit&eacute;; University Hospital in Berlin. Mark began his research lab
-        at the University of Wollongong in 2013.</p>
+        and Charit&eacute;; University Hospital in Berlin. Mark is interested in primate early visual cortex, retinotopic mapping and high resolution structural and functional MRI. He recently started working with DWI imaging. Advanced data processing techniques are a core tool of his research.</p>
         </td>
       <td class="speaker-image-right">
         <img src="{{site.baseurl}}/images/mschira.png" width="175"/>
