@@ -30,19 +30,17 @@ Lecture recordings will also be posted here.
 *Mark M. Schira*
 
 <!-- Insert abstract / edit title here! -->
-This talk will introduce the web based neurodesk instance and how to access it. It will then cover the basics of Neurodesk and why it is useful for computational neuroscience. It will then cover how to seamlessly move a project between a local workstation, a cloud instance of neurodesk and a high performance cluster based on the example of the Human Brain Atlas project. Finally, the session will discuss experiences on using a cloud based Neurodesk instance for teaching 45 undergraduate computer novices the basics of MRI analysis.
+Firstly, I'll introduce and provide access to the cloud based Neurodesk instance for this course, and give a short introduction to Neurodesk. Then, I will discuss how that was useful on the example of the Human Brain Atlas project, allowing us to move data processing seamlessly from local workstations to a high performance cluster using Neurocommand. The last section will cover experience on using a cloud based Neurodesk instance to introduce computational neuroimaging to 45 undergraduate student that had no to very little experience with programming or neuroimaging or the command line.
+Note, the list of topics below and the links are very much work in progress and should not the taken seriously just yet. But they do provide a rough idea and peek into what topics the first session will cover.
 
-1. **The cloud based Neurodesk instance**
-* [`Play`](https://www.neurodesk.org/docs/getting-started/neurodesktop/play/)
-
-2. **What is Neurodesk and why should I care**
+1. **A cloud based Neurodesk instance**
 * [`Neurodesk`](https://www.neurodesk.org/)
-3. **Using a HPC system**
+* You can try [`Play`](https://www.neurodesk.org/docs/getting-started/neurodesktop/play/)
+3. **The HBA project and HPC systems**
   * The [`HBA project`](hba.neura.edu.org)
   * Making [`data`](https://osf.io/ckh5t/) available on OSF.io
 4. **Herding cats**
-  * teaching undergraduates using a cloud neurodesk
-
+  * teaching undergraduates computational neuroimaging
 
 
 
