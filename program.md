@@ -30,6 +30,18 @@ Lecture recordings will also be posted here.
 *Mark M. Schira*
 
 <!-- Insert abstract / edit title here! -->
+This talk will introduce the web based neurodesk instance and how to access it. It will then cover the basics of Neurodesk and why it is useful for computational neuroscience. It will then cover how to seamlessly move a project between a local workstation, a cloud instance of neurodesk and a high performance cluster based on the example of the Human Brain Atlas project. Finally, the session will discuss experiences on using a cloud based Neurodesk instance for teaching 45 undergraduate computer novices the basics of MRI analysis.
+
+1. **The cloud based Neurodesk instance**
+* [`Play`](https://www.neurodesk.org/docs/getting-started/neurodesktop/play/)
+
+2. **What is Neurodesk and why should I care**
+* [`Neurodesk`](https://www.neurodesk.org/)
+3. **Using a HPC system**
+  * The [`HBA project`](hba.neura.edu.org)
+  * Making [`data`](https://osf.io/ckh5t/) available on OSF.io
+4. **Herding cats**
+
 
 
 ### A reproducible pipeline for visual neuroimaging
