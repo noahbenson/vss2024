@@ -71,7 +71,7 @@ def polarAngle_plot(subject_id, path, template_path, prediction = 'average', bin
     template_path : str  
         Path to template surfaces.
     predictions : str
-        Prediction (model 1 to 5 or average)
+        Prediction (model 1 to 5 or average) or empirical
     binarize : bool, optional
         Binarize the polar angle map. The default is False.
     save : bool, optional
@@ -107,10 +107,15 @@ def polarAngle_plot(subject_id, path, template_path, prediction = 'average', bin
 
     # Loading the polarAngle predictions
     polarAngle = np.zeros((32492, 1))
-    data = np.array(nib.load(osp.join(path,
-                                 subject_id + '/deepRetinotopy/' + subject_id + '.fs_predicted_polarAngle_lh_curvatureFeat_' + prediction + '.func.gii')).agg_data()).reshape(
-                                 number_hemi_nodes, -1)
-
+    if prediction != 'empirical':
+        data = np.array(nib.load(osp.join(path,
+                                     subject_id + '/deepRetinotopy/' + subject_id + '.fs_predicted_polarAngle_lh_curvatureFeat_' + prediction + '.func.gii')).agg_data()).reshape(
+                                     number_hemi_nodes, -1)
+    
+    else:
+        data = np.array(nib.load(osp.join(path,
+                                     subject_id + '/deepRetinotopy/' + subject_id + '.fs_empirical_polarAngle_lh_masked.func.gii')).agg_data()).reshape(
+                                     number_hemi_nodes, -1)
     polarAngle[final_mask_L == 1] = np.reshape(
             data[final_mask_L == 1], (-1, 1))
 
