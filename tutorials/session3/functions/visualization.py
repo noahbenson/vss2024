@@ -111,19 +111,21 @@ def polarAngle_plot(subject_id, path, template_path, prediction = 'average', bin
         data = np.array(nib.load(osp.join(path,
                                      subject_id + '/deepRetinotopy/' + subject_id + '.fs_predicted_polarAngle_lh_curvatureFeat_' + prediction + '.func.gii')).agg_data()).reshape(
                                      number_hemi_nodes, -1)
+        polarAngle[final_mask_L == 1] = np.reshape(
+        data[final_mask_L == 1], (-1, 1))
+
+        # Reshift values
+        subtract = polarAngle >= 180
+        add = polarAngle < 180
+        polarAngle[subtract] = polarAngle[subtract] - 180
+        polarAngle[add] = polarAngle[add] + 180
     
     else:
         data = np.array(nib.load(osp.join(path,
-                                     subject_id + '/deepRetinotopy/' + subject_id + '.fs_empirical_polarAngle_lh_masked.func.gii')).agg_data()).reshape(
+                                     subject_id + '/deepRetinotopy/' + subject_id + '.fs_empirical_polarAngle_lh.func.gii')).agg_data()).reshape(
                                      number_hemi_nodes, -1)
-    polarAngle[final_mask_L == 1] = np.reshape(
-            data[final_mask_L == 1], (-1, 1))
-
-    # Reshift values
-    subtract = polarAngle >= 180
-    add = polarAngle < 180
-    polarAngle[subtract] = polarAngle[subtract] - 180
-    polarAngle[add] = polarAngle[add] + 180
+        polarAngle[final_mask_L == 1] = np.reshape(
+                data[final_mask_L == 1], (-1, 1))
 
     # Masking
     polarAngle = np.array(polarAngle) + threshold
