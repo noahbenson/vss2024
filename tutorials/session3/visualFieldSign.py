@@ -6,12 +6,13 @@ sys.path.append('.')
 from utils.fieldSign import field_sign
 
 def generate_signMaps(path):
-    for sub in os.listdir(path):
-        path_sub = path + str(sub) + '/deepRetinotopy/'
-        for hemisphere in ['lh', 'rh']:
-            field_sign(path_sub, hemisphere,
-                    sub + '.fs_predicted_polarAngle_' + hemisphere + '_curvatureFeat_average.func.gii',
-                    sub + '.fs_predicted_eccentricity_' + hemisphere + '_curvatureFeat_average.func.gii')
+    path_sub = path + 'deepRetinotopy/'
+    sub = path_sub.split('/')[-3]
+    print(sub)
+    for hemisphere in ['lh', 'rh']:
+        field_sign(path_sub, hemisphere,
+                sub + '.fs_predicted_polarAngle_' + hemisphere + '_curvatureFeat_average.func.gii',
+                sub + '.fs_predicted_eccentricity_' + hemisphere + '_curvatureFeat_average.func.gii')
 
 if __name__ == '__main__':
 
