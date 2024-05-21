@@ -8,9 +8,12 @@
 
 The workshop is now complete, and video recordings have been posted to YouTube as a [playlist](https://www.youtube.com/playlist?list=PLR23DMCRd9d1g35TD3qs_HfUvNjWedVVL).
 
-1. [Introduction to Neurodesk](https://youtu.be/kwsgZeX8Ssw), Dr. Mark Schira, University of Wollongong
-2. [Building a reproducible neuroimaging pipeline](https://youtu.be/Kr8BTJiumTQ), Dr. Noah C. Benson, University of Washington
-3. [DeepRetinotopy](https://youtu.be/GWDLFhuQDZ8), Dr. Fernanda Ribeiro, University of Queensland
+1. [Introduction to Neurodesk](https://youtu.be/kwsgZeX8Ssw)  
+   Dr. Mark Schira, University of Wollongong
+2. [Building a reproducible neuroimaging pipeline](https://youtu.be/Kr8BTJiumTQ)  
+   Dr. Noah C. Benson, University of Washington
+3. [DeepRetinotopy](https://youtu.be/GWDLFhuQDZ8)  
+   Dr. Fernanda Ribeiro, University of Queensland
 
 The [GitHub repository](https://github.com/noahbenson/vss2024) for the workshop can be used to run the demonstrations and tutorials.
 
